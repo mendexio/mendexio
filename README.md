@@ -1,6 +1,6 @@
 # Corporate broke me. Now I build my own rules. ⚡
 
-I'm the founder of **[Mendex](https://mendex.io)** — a venture studio building self-hosted tools for indie devs, solo founders, and burnout survivors like me.
+I'm the indie hacker behind **[Mendex](https://mendex.io)** — building self-hosted tools for indie devs, solo founders, and burnout survivors like me.
 
 After 4 burnouts and 15+ years in tech, I stopped building for others. Now I build what I wish existed.
 
