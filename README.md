@@ -8,14 +8,9 @@ After 4 burnouts and 15+ years in tech, I stopped building for others. Now I bui
 
 ## 🔥 Live Products
 
+[![Seer](https://img.shields.io/badge/Seer-Market_Opportunity_Detection-8B5CF6?style=for-the-badge)](https://github.com/mx-seer/seer)
 [![BlazeNext](https://img.shields.io/badge/BlazeNext-Next.js_SaaS_Boilerplate-black?style=for-the-badge)](https://mendexio.gumroad.com/l/blazenext)
 [![BlazeInvoice](https://img.shields.io/badge/BlazeInvoice-Invoice_Generator-black?style=for-the-badge)](https://mendexio.gumroad.com/l/blazeinvoice)
-
-## 🔮 Coming Soon
-
-| Product | Description |
-|---------|-------------|
-| **Seer** | Market opportunity detection for indie devs |
 
 ---
 
@@ -35,8 +30,8 @@ After 4 burnouts and 15+ years in tech, I stopped building for others. Now I bui
 ## 🌐 Find Me
 
 [![Mendex](https://img.shields.io/badge/Mendex-mendex.io-000?style=for-the-badge)](https://mendex.io)
-[![Products](https://img.shields.io/badge/Products-blazebase.dev-000?style=for-the-badge)](https://blazebase.dev)
 [![X](https://img.shields.io/badge/X-@mendexio-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mendexio)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mendexio)
 
 ---
 
